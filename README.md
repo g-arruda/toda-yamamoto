@@ -2,7 +2,7 @@
 
 ## Overview
 
-This package provides a robust implementation of the Toda-Yamamoto causality test for time series analysis in R. The Toda-Yamamoto procedure is an extension of the Granger causality test that allows for testing causality between variables even when the series are non-stationary or have different orders of integration.
+This code provides an implementation of the Toda-Yamamoto causality test for time series analysis in R. The Toda-Yamamoto procedure is an extension of the Granger causality test that allows for testing causality between variables even when the series are non-stationary or have different orders of integration.
 
 ## Why Toda-Yamamoto?
 
